@@ -10,3 +10,6 @@ bootstrap
 underscore
 stylus
 madewith
+accounts-password
+accounts-github
+accounts-ui
